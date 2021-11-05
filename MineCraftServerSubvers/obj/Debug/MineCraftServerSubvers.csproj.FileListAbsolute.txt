@@ -1,9 +1,0 @@
-C:\Users\nox\Documents\GitHub\MineCraftServerSubvers\MineCraftServerSubvers\bin\Debug\MineCraftServerSubvers.exe.config
-C:\Users\nox\Documents\GitHub\MineCraftServerSubvers\MineCraftServerSubvers\bin\Debug\MineCraftServerSubvers.exe
-C:\Users\nox\Documents\GitHub\MineCraftServerSubvers\MineCraftServerSubvers\bin\Debug\MineCraftServerSubvers.pdb
-C:\Users\nox\Documents\GitHub\MineCraftServerSubvers\MineCraftServerSubvers\obj\Debug\MineCraftServerSubvers.csproj.AssemblyReference.cache
-C:\Users\nox\Documents\GitHub\MineCraftServerSubvers\MineCraftServerSubvers\obj\Debug\MineCraftServerSubvers.Properties.Resources.resources
-C:\Users\nox\Documents\GitHub\MineCraftServerSubvers\MineCraftServerSubvers\obj\Debug\MineCraftServerSubvers.csproj.GenerateResource.cache
-C:\Users\nox\Documents\GitHub\MineCraftServerSubvers\MineCraftServerSubvers\obj\Debug\MineCraftServerSubvers.csproj.CoreCompileInputs.cache
-C:\Users\nox\Documents\GitHub\MineCraftServerSubvers\MineCraftServerSubvers\obj\Debug\MineCraftServerSubvers.exe
-C:\Users\nox\Documents\GitHub\MineCraftServerSubvers\MineCraftServerSubvers\obj\Debug\MineCraftServerSubvers.pdb
